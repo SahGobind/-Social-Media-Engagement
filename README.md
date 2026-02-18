@@ -3,7 +3,7 @@ A Power BI dashboard analyzing social media engagement data using DAX, charts, a
 ````
 📊 Social Media Engagement Dashboard - Power BI Project
 
-![Dashboard Screenshot](./Screenshot (166).png)
+![Dashboard Screenshot](./Screenshot.png)
 
 🔍 Project Overview
 
@@ -65,7 +65,7 @@ The dashboard includes a clickable image linked to the dataset's original source
 **1. Clone the repo:**
 
    git remote add origin https://github.com/SahGobind/-Social-Media-Engagement.git
-   
+
 2. Open the `.pbix` file in **Power BI Desktop**
 3. Explore the measures, parameter slicer, and visualizations
 4. Optional: Replace the dataset with your own updated version
